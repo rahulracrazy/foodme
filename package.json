@@ -26,8 +26,7 @@
     "logger": "0.0.1",
     "morgan": "^1.9.0",
     "newrelic": "^11.5.0",
-    "open": ">= 0.0.2",
-    "testacular": "canary"
+    "open": ">= 0.0.2"
   },
   "engines": {
     "node": ">=12.0.0"

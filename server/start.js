@@ -4,3 +4,4 @@ var TEST_DIR = __dirname + '/../test';
 var DATA_FILE = __dirname + '/data/restaurants.json';
 
 require('./index').start(PORT, STATIC_DIR, DATA_FILE, TEST_DIR);
+
